@@ -1,0 +1,9 @@
+com\jarvis\texttospeech\service\TextToSpeechService.class
+com\jarvis\texttospeech\config\AzureTTSConfig.class
+com\jarvis\texttospeech\exception\TextToSpeechException.class
+com\jarvis\tts\TextToSpeechServiceApplication.class
+com\jarvis\texttospeech\controller\TTSController.class
+com\jarvis\texttospeech\dto\TextRequest.class
+com\jarvis\texttospeech\service\impl\TextToSpeechServiceImpl.class
+com\jarvis\texttospeech\exception\handler\GlobalExceptionHandler.class
+META-INF\spring-configuration-metadata.json

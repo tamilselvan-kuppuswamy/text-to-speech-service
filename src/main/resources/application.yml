@@ -1,0 +1,24 @@
+server:
+  port: 9090
+
+spring:
+  application:
+    name: text-to-speech-service
+
+azure:
+  speech:
+    key: dummy key
+    region: eastus
+    voice: en-US-JennyNeural
+    output-format: Audio16Khz32KBitRateMonoMp3
+
+logging:
+  level:
+    root: INFO
+    com.jarvis.texttospeech: DEBUG
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics

@@ -1,0 +1,8 @@
+C:\ProgramData\DDrive\hackathon\repos\voice-logistics-platform\back-end\ai-layer\text-to-speech-service\src\main\java\com\jarvis\texttospeech\config\AzureTTSConfig.java
+C:\ProgramData\DDrive\hackathon\repos\voice-logistics-platform\back-end\ai-layer\text-to-speech-service\src\main\java\com\jarvis\texttospeech\controller\TTSController.java
+C:\ProgramData\DDrive\hackathon\repos\voice-logistics-platform\back-end\ai-layer\text-to-speech-service\src\main\java\com\jarvis\texttospeech\dto\TextRequest.java
+C:\ProgramData\DDrive\hackathon\repos\voice-logistics-platform\back-end\ai-layer\text-to-speech-service\src\main\java\com\jarvis\texttospeech\exception\handler\GlobalExceptionHandler.java
+C:\ProgramData\DDrive\hackathon\repos\voice-logistics-platform\back-end\ai-layer\text-to-speech-service\src\main\java\com\jarvis\texttospeech\exception\TextToSpeechException.java
+C:\ProgramData\DDrive\hackathon\repos\voice-logistics-platform\back-end\ai-layer\text-to-speech-service\src\main\java\com\jarvis\texttospeech\service\impl\TextToSpeechServiceImpl.java
+C:\ProgramData\DDrive\hackathon\repos\voice-logistics-platform\back-end\ai-layer\text-to-speech-service\src\main\java\com\jarvis\texttospeech\service\TextToSpeechService.java
+C:\ProgramData\DDrive\hackathon\repos\voice-logistics-platform\back-end\ai-layer\text-to-speech-service\src\main\java\com\jarvis\texttospeech\TextToSpeechServiceApplication.java

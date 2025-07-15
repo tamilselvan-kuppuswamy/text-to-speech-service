@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "name": "azure.speech",
+      "type": "com.jarvis.texttospeech.config.AzureTTSConfig",
+      "sourceType": "com.jarvis.texttospeech.config.AzureTTSConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "azure.speech.key",
+      "type": "java.lang.String",
+      "sourceType": "com.jarvis.texttospeech.config.AzureTTSConfig"
+    },
+    {
+      "name": "azure.speech.output-format",
+      "type": "java.lang.String",
+      "sourceType": "com.jarvis.texttospeech.config.AzureTTSConfig"
+    },
+    {
+      "name": "azure.speech.region",
+      "type": "java.lang.String",
+      "sourceType": "com.jarvis.texttospeech.config.AzureTTSConfig"
+    },
+    {
+      "name": "azure.speech.voice",
+      "type": "java.lang.String",
+      "sourceType": "com.jarvis.texttospeech.config.AzureTTSConfig"
+    }
+  ],
+  "hints": [],
+  "ignored": {
+    "properties": []
+  }
+}

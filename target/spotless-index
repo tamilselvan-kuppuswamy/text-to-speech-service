@@ -1,0 +1,9 @@
+AIhJqc5fM3gDVjczCoCs/NLKq8CPQOXpt2CCUDanVNI=
+src\main\java\com\jarvis\texttospeech\config\AzureTTSConfig.java 2025-07-14T16:15:48.435788500Z
+src\main\java\com\jarvis\texttospeech\controller\TTSController.java 2025-07-14T16:15:48.440788500Z
+src\main\java\com\jarvis\texttospeech\dto\TextRequest.java 2025-07-14T16:15:48.444807400Z
+src\main\java\com\jarvis\texttospeech\exception\handler\GlobalExceptionHandler.java 2025-07-14T16:15:48.453370900Z
+src\main\java\com\jarvis\texttospeech\exception\TextToSpeechException.java 2025-07-14T16:15:48.449794700Z
+src\main\java\com\jarvis\texttospeech\service\impl\TextToSpeechServiceImpl.java 2025-07-14T16:15:48.460840700Z
+src\main\java\com\jarvis\texttospeech\service\TextToSpeechService.java 2025-07-14T16:15:48.456968400Z
+src\main\java\com\jarvis\texttospeech\TextToSpeechServiceApplication.java 2025-07-14T16:15:48.430554500Z
