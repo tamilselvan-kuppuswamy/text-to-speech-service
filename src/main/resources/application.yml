@@ -4,6 +4,9 @@ server:
 spring:
   application:
     name: text-to-speech-service
+  web:
+    resources:
+      add-mappings: false
 
 azure:
   speech:
