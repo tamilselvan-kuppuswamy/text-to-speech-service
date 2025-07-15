@@ -10,7 +10,7 @@ spring:
 
 azure:
   speech:
-    key: dummy key
+    key: 7Cf0s1wxJKfV4zmnwPEk3F7VT1N34CUgS6gXXxBVZclVEEOVw2GmJQQJ99BGACYeBjFXJ3w3AAAYACOGJL4K
     region: eastus
     voice: en-US-JennyNeural
     output-format: Audio16Khz32KBitRateMonoMp3
